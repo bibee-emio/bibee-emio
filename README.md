@@ -50,7 +50,6 @@ src="src/1_IRGHmiGsa16stedQvIaZfw.gif"
 * I am Bibee. (It's just a nickname)
 * A deja vu patient.
 * I love Physics.
-* I'm someone who always forget to put a full-stop at the end of a sentence, but not the semi-colon at the end of a code
 * Don't forget to fork & put a start on my repos.
 
 <br>
