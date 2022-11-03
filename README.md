@@ -19,11 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center"> Hello! I'm Bibee 
 </h2>
 
-<!--| 
-<img
-src='https://gpvc.arturio.dev/mikubotTG'>
 
-https://github.com/AsmSafone! -->
 
 
 
